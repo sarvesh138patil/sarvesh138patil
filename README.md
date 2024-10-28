@@ -1,4 +1,4 @@
-![logo](https://github.com/sarvesh138patil/sarvesh138patil/blob/main/Capture.PNG)
+![logo](https://github.com/sarvesh138patil/sarvesh138patil/blob/main/Data-Science-Training-institute-in-patna.webp)
 <h1 align="center">Hi 👋, I'm Sarvesh Patil</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
